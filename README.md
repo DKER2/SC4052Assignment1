@@ -21,12 +21,11 @@ pip install numpy matplotlib google-generativeai
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/DKER2/SC4052Assignment1
    ```
 2. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook CloudComputingAssignment1.ipynb
+   jupyter notebook
    ```
 3. Run each cell sequentially to execute the notebook.
 
